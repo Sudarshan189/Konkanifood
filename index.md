@@ -1,13 +1,13 @@
+---
+layout: default
+title: KonkaniFood Cookbook
+---
+
 # KonkaniFood Cookbook
 
-## Recipe Title 1
+- [Recipe 1](recipes/recipe1.md)
+- [Recipe 2](recipes/recipe2.md)
+- [Recipe 3](recipes/recipe3.md)
+- [Recipe 4](recipes/recipe4.md)
 
-**Ingredients:**
-- Ingredient 1
-- Ingredient 2
-- Ingredient 3
-
-**Instructions:**
-1. Step 1
-2. Step 2
-3. Step 3
+<!-- Add more recipes as needed -->
